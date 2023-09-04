@@ -1,3 +1,4 @@
 # 测试vscode的git功能
 
     - 在vscode终端提交代码
+    - 在vscode终端测试免密提交代码
